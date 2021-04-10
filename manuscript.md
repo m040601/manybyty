@@ -9,6 +9,7 @@ date-meta: '2021-04-10'
 author-meta:
 - John Doe
 - Jane Roe
+- Many Roe
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -35,15 +36,19 @@ header-includes: |-
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Many Roe" />
+  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <link rel="canonical" href="https://m040601.github.io/manybyty/" />
   <meta property="og:url" content="https://m040601.github.io/manybyty/" />
   <meta property="twitter:url" content="https://m040601.github.io/manybyty/" />
   <meta name="citation_fulltext_html_url" content="https://m040601.github.io/manybyty/" />
   <meta name="citation_pdf_url" content="https://m040601.github.io/manybyty/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://m040601.github.io/manybyty/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://m040601.github.io/manybyty/v/f09ce13278540620afe5a67840ef23284d4d83f9/" />
-  <meta name="manubot_html_url_versioned" content="https://m040601.github.io/manybyty/v/f09ce13278540620afe5a67840ef23284d4d83f9/" />
-  <meta name="manubot_pdf_url_versioned" content="https://m040601.github.io/manybyty/v/f09ce13278540620afe5a67840ef23284d4d83f9/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://m040601.github.io/manybyty/v/11de88050196591b23cd0e9da301328d929eff5a/" />
+  <meta name="manubot_html_url_versioned" content="https://m040601.github.io/manybyty/v/11de88050196591b23cd0e9da301328d929eff5a/" />
+  <meta name="manubot_pdf_url_versioned" content="https://m040601.github.io/manybyty/v/11de88050196591b23cd0e9da301328d929eff5a/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +70,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://m040601.github.io/manybyty/v/f09ce13278540620afe5a67840ef23284d4d83f9/))
+([permalink](https://m040601.github.io/manybyty/v/11de88050196591b23cd0e9da301328d929eff5a/))
 was automatically generated
-from [m040601/manybyty@f09ce13](https://github.com/m040601/manybyty/tree/f09ce13278540620afe5a67840ef23284d4d83f9)
+from [m040601/manybyty@11de880](https://github.com/m040601/manybyty/tree/11de88050196591b23cd0e9da301328d929eff5a)
 on April 10, 2021.
 </em></small>
 
@@ -96,9 +101,20 @@ on April 10, 2021.
      Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
++ **Many Roe**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [m040601](https://github.com/m040601)<br>
+  <small>
+     Department of Something, University of Whatever; Department of Whatever, University of Something
+  </small>
+
 
 
 ## Abstract {.page_break_before}
+
+This abstract is too abstract.
 
 
 
